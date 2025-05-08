@@ -17,3 +17,8 @@ We are stripping away bloat, tightening performance, and rebuilding the pipeline
 - Open contributions (issues and challenges will be posted here)
 
 Stay tuned — and help us push the limits of what *should* be possible.
+
+## 👤 Author & Founder
+
+This project was created and is maintained by **Trevor Honer**.  
+Feel free to reach out or follow the mission on GitHub.
